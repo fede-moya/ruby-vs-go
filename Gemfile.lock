@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gruff (0.12.1)
+      histogram
+      rmagick
+    histogram (0.2.4.1)
+    rmagick (4.2.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gruff
+
+BUNDLED WITH
+   2.0.1
